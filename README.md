@@ -35,14 +35,6 @@ Este comando gerará um executável chamado discloud_menu.
 
 [MIT](https://github.com/josyelbuenos/Discloud-Menu./blob/main/LICENSE)
 
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 ## Autores
 
 - [@josyelbuenos](https://www.github.com/josyelbuenos)
