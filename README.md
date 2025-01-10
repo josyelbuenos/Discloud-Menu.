@@ -18,7 +18,7 @@ Suporte para UTF-8 para garantir compatibilidade com diferentes caracteres
 Uso de ANSI escape codes para exibição colorida no terminal
 Este projeto é ideal para administradores e usuários que precisam gerenciar suas aplicações no Discloud de maneira prática e eficiente.
 
-## Você pode acessar a versão mais recente do executável aqui.
+## Você pode acessar a versão mais recente do executável ![AQUI](https://github.com/josyelbuenos/Discloud-Menu./releases/).
 
 ## Compilação
 
